@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    position: relative;
+    padding-bottom: 0em;
+    min-height: 100vh;
+}
+
+header{
+  background-color: whitesmoke;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-text-right {
+  margin-top: 1.5cm;
+  margin-right: 4cm;
+  float: right;
+  margin-left: 20px; /* Ajusta el valor según tus necesidades */
+}
+
+footer p {
+    margin-left: 2.5cm;
+  }
+  
+.footer-text-right {
+    margin-right: 4cm;
+    float: right;
+}
+
+footer {
+  background-color: chocolate;
+  color: white;
+  padding: 1em 0;
+  text-align: left;
+  width: 100%;
+}
+
+.submenu {
+  display: none;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.submenu li {
+  margin-left: 10px;
+}
+
+.submenu li a {
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+
+/* Mostrar el submenú cuando el enlace principal está enfocado o activo */
+.breadcrumb-item a:focus + .submenu,
+.breadcrumb-item a:active + .submenu {
+  display: block;
+}
