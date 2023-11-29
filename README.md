@@ -1,14 +1,26 @@
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
 <h1 align="center">hola, soy Jade2803 👋</h1>
-<h3 align="center">Disfruto de la programación en Java y HTML</h3>
+<p align="center">
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+</p>
+<h3 align="left">Disfruto de la programación en Java y HTML</h3>
 
-- 🌱 Actualmente estoy aprendiendo **utilización de nuevas Bases de Datos**
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 💬 Pregúntame sobre **Java,MySQL,HTML**
-
-- 📫 Cómo contactarme **jaderamirezmoreta@gmail.com**
+<p align="left">
+    - 🌱 Actualmente estoy aprendiendo **utilización de nuevas Bases de Datos**
+</p>    
+<p align="left">
+    - 💬 Pregúntame sobre **Java,MySQL,HTML**
+</p>     
+<p align="left">
+    - 📫 Cómo contactarme **jaderamirezmoreta@gmail.com**
+</p>    
 
 <h3 align="left">Conéctate conmigo:</h3>
-<p align="izquierda">
+<p align="left">
 <a href="https://www.facebook.com/profile.php?id=100007465668646" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jade ramirez" height="30" width="40" />
 </a>
@@ -17,9 +29,13 @@
 </a>
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<a target="_blank" align="center">
+  <img align="left" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+<br/>
+<h3 align="center">Idiomas y herramientas:</h3>
 
-<p align="left">
+<p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
